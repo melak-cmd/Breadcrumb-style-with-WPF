@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Breadcrumb_style_with_WPF.RandomString">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAACAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RandomString.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Breadcrumb_style_with_WPF.RandomValueNode">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAEAAAAAAAAEAAAEQAAAAAAAAAAAAAAAAQIAAAA=</HashCode>
+      <FileName>RandomValueNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Breadcrumb_style_with_WPF.TreeSampleViewModel">
+    <Position X="3.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAACAAAAAgAA=</HashCode>
+      <FileName>TreeSampleViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Breadcrumb_style_with_WPF.IParent">
+    <Position X="3.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IParent.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
